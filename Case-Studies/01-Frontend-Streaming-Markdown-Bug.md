@@ -70,7 +70,7 @@ The experiment was repeated multiple times. The bug reproduced consistently, con
 |---|---|---|
 | 1 | `Z_IA1.png` | Baseline — normal rendering state |
 | 2 | `Z_IA2.png` | Bug active — markdown corruption visible during streaming |
-| 3 | `prueba_trabajo_Z_IA_para_portafolio_del_20260120_094412.mp4` | Screen recording — bug occurring in real time |
+| 3 | `https://youtu.be/3P8fbo6QzS4` | Screen recording — bug occurring in real time |
 | 4 | Full chat transcript | Complete interaction log with methodology documented inline |
 
 ---
